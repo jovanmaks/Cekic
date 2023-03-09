@@ -19,8 +19,9 @@
     "@ionic/pwa-elements": "^3.1.1",
     "@ionic/vue": "^6.0.0",
     "@ionic/vue-router": "^6.0.0",
-    "@supabase/supabase-js": "^1.31.1",
+    "@supabase/supabase-js": "^1.35.7",
     "core-js": "^3.6.5",
+    "dotenv": "^16.0.3",
     "vue": "^3.2.21",
     "vue-router": "^4.0.12"
   },
